@@ -9,7 +9,7 @@ edit for connect Database
 
 ## file add
 
-% you want http://localhost/php-oop/edit_data.php because I'm lasy; Hahaha
+you want http://localhost/php-oop/edit_data.php because I'm lasy; Hahaha
 
 for file edit with -> http://localhost/php-oop/edit_data.php?edit_id=13
 
